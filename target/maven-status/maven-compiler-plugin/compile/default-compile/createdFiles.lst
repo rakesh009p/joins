@@ -1,0 +1,8 @@
+com\cgi\Domain\Product.class
+com\cgi\App.class
+com\cgi\Domain\Category.class
+com\cgi\service\ProductServiceImpl.class
+com\cgi\repository\ProductRepository.class
+com\cgi\controller\JoinController.class
+com\cgi\Domain\ProductJoin.class
+com\cgi\service\ProductService.class
